@@ -24,12 +24,12 @@ body {
 header#cabecalho img#icone {
             position: absolute;
             left: 1200px;
-            top: 110px;
+            top: 80px;
     }
 
     header#cabecalho {  /* divisao */
         border-bottom: 1px #606060 solid;
-        height: 150px;
+        height: 200px;
         background: url("../_imagens/glass-logo-peq.jpg") no-repeat 0px 80px;
 
 
@@ -41,6 +41,7 @@ header#cabecalho img#icone {
         color: #606060;
         text-shadow: 1px 1px 1px rgba(0.0.0..6);
         padding: 0px;
+        margin-top: 40px;
         margin-bottom: 0px;
     }
 
@@ -112,6 +113,7 @@ div#interface {
     nav#menu li {
         flex-shrink: 0;
         display: inline-block;
+        align-items: center;
         background-color: #dddddd;
         padding: 10px; /* espaço dentro no menu */
         margin: 4px; /* espaco fora entre os botoes*/
