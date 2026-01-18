@@ -105,6 +105,9 @@ div#interface {
     nav#menu ul {
         list-style: none; /* retirando marcadores*/
         text-transform: uppercase; /* maiusculo*/
+        display: flex;
+        justify-content: center;
+        align-items: center;
         position: absolute;
         top: -20px;  /* valor negativo para aproximar da barra do navegador */
         left: 450px;
