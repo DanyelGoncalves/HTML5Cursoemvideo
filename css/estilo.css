@@ -107,7 +107,7 @@ div#interface {
         align-items: center;
         position: absolute;
         top: -15px;  /* valor negativo para aproximar da barra do navegador */
-        left: 450px;
+        left: 540px;
     }
 
     nav#menu li {
