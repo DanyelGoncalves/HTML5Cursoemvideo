@@ -54,7 +54,7 @@ header#cabecalho img#icone {
     }
 
 div#interface {
-        width: 1000px;
+        width: 1100px;
         background-color: #ffffff;
         margin: -20px auto 0px auto;
         box-shadow: 0px 0px 10px black;
@@ -104,7 +104,7 @@ div#interface {
         text-transform: uppercase; /* maiusculo*/
         position: absolute;
         top: -20px;  /* valor negativo para aproximar da barra do navegador */
-        left: 650px;
+        left: 450px;
     }
 
     nav#menu li {
