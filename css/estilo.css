@@ -89,16 +89,12 @@ div#interface {
 
     figure.foto-legenda:hover figcaption {
         opacity: 1;
-        
-
     }
 
-   nav#menu {
-    
+   nav#menu {    
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
-
    }
 
 /* estilo para o menu ID MENU */
@@ -109,7 +105,7 @@ div#interface {
         justify-content: center;
         align-items: center;
         position: absolute;
-        top: -20px;  /* valor negativo para aproximar da barra do navegador */
+        top: -15px;  /* valor negativo para aproximar da barra do navegador */
         left: 450px;
     }
 
